@@ -71,7 +71,7 @@ class API(object):
         url = self.__get_url(endpoint)
         auth = None
         headers = {
-            "user-agent": "WooCommerce API Client-Python/%s" % __version__,
+            "user-agent": "WooCommerce API Client/%s" % __version__,
             "accept": "application/json"
         }
 
