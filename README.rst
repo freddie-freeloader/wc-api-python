@@ -146,7 +146,7 @@ Request with `params` example
 Changelog
 ---------
 
-2.1.1 - 2019/07/22
+2.1.2 - 2019/07/22
 ~~~~~~~~~~~~~~~~~~
 
 - Updated Request library to 2.22.0.
